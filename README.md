@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-clipboard-watcher/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-clipboard-watcher/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-clipboard-watcher/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-clipboard-watcher/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-clipboard-watcher/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-clipboard-watcher/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-clipboard-watcher/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-clipboard-watcher/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-clipboard-watcher/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-clipboard-watcher/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-clipboard-watcher/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-clipboard-watcher/build/coverage.html/index.html)
 
@@ -57,7 +57,8 @@
     },
     "dependencies": {
         "NodObjC": "0.0.15"
-    }
+    },
+    "bin": {}
 }
 ```
 
